@@ -18,4 +18,8 @@ public class StepDefs {
     public void User_should_see_the_categories_list_as_below(DataTable arg1) {
 
     }
+    public void method1()
+    {
+
+    }
 }
